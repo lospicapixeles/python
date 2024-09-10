@@ -28,18 +28,16 @@ Este algoritmo dibuja un cuadrado simple en la terminal usando caracteres de tex
    ```bash
    git clone https://github.com/lospicapixeles/python
    ```
-Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
 
-
-Copiar código
 ```bash
 cd python
-Ejecuta los scripts individualmente utilizando Python 3:
 ```
 
-Copiar código
+3. Ejecuta los scripts individualmente utilizando Python 3:
+
 ```bash
-    python3 ejercicio1.py
+python3 ejercicio1.py
 ```
 
 🛠️ Tecnologías Utilizadas
