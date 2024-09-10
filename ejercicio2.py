@@ -21,7 +21,7 @@ def ingresar_y_convertir():
                 letra = convertir_calificacion(calificacion)
                 print(f"Calificación numérica: {calificacion}, Calificación literal: {letra}")
             else:
-                print("La calificación debe estar entre 0 y 100.")
+                print("La calificación debe estar entre 0 y 20.")
         except ValueError:
             print("Por favor, ingrese un número válido.")
 
