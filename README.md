@@ -47,10 +47,10 @@ Git y GitHub para el control de versiones 📂
 Este trabajo fue realizado en equipo por:
 
 
-👤 Ayansi Huisa Antony Elio
-👤 Ayma Vega Centeno Julio Joaquin
-👤 Horta Espinoza Jose Ronaldo
-👤 Ñaupa Yapura Eduardo
-👤 Oyola Saloma Anthony Dennis
+# 👤 Ayansi Huisa Antony Elio
+# 👤 Ayma Vega Centeno Julio Joaquin
+# 👤 Horta Espinoza Jose Ronaldo
+# 👤 Ñaupa Yapura Eduardo
+# 👤 Oyola Saloma Anthony Dennis
 
 ¡Gracias por revisar nuestro repositorio! Si tienes sugerencias o mejoras, siéntete libre de hacer un fork y enviar un pull request. 🙌
